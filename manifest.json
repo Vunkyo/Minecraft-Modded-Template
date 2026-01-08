@@ -1,11 +1,11 @@
 {
-    "id": "2cd035e7-b26d-4eed-8044-454d90782d36",
+    "id": "2cd035e7-b26d-4eed-8044-454d90782d36-Vunkyo",
     "authors": [
-        "Hellmonkeyy"
+        "Vunkyo"
     ],
-    "origin": "https://github.com/Hellmonkeyy/AMP-Modded-Minecraft-Template.git",
-    "url": "https://github.com/Hellmonkeyy/AMP-Modded-Minecraft-Template",
+    "origin": "https://github.com/Vunkyo/Minecraft-Modded-Template",
+    "url": "https://github.com/Vunkyo/Minecraft-Modded-Template",
     "imagefile": "",
-    "prefix": "",
+    "prefix": "Vunkyo",
     "repotype": "AppTemplates"
 }
