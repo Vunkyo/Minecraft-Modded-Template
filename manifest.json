@@ -1,11 +1,11 @@
 {
-    "id": "2cd035e7-b26d-4eed-8044-454d90782d36-Vunkyo",
+    "id": "2cd035e7-b26d-4eed-8044-454d90782d35",
     "authors": [
         "Vunkyo"
     ],
     "origin": "https://github.com/Vunkyo/Minecraft-Modded-Template",
     "url": "https://github.com/Vunkyo/Minecraft-Modded-Template",
     "prefix": "Vunkyo",
-    "repotype": "git",
+    "repotype": "AppTemplates",
     "branch": "main"
 }
