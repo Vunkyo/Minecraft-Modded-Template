@@ -5,7 +5,7 @@
     ],
     "origin": "https://github.com/Vunkyo/Minecraft-Modded-Template",
     "url": "https://github.com/Vunkyo/Minecraft-Modded-Template",
-    "imagefile": "",
     "prefix": "Vunkyo",
-    "repotype": "AppTemplates"
+    "repotype": "git",
+    "branch": "main"
 }
